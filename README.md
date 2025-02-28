@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sdihanta Behera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Weather Application](https://sidhantabeher.github.io/Weather-App/)
+ <h1>Projects</h1>
+ [Weather Application](https://sidhantabeher.github.io/Weather-App/)
 
 - 📫 How to reach me **bsidhanta999@gmail.com**
 
