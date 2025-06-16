@@ -5,7 +5,7 @@
  <h3> [Weather Application](https://sidhantabeher.github.io/Weather-App/)
 </h3>
 <h3>[Calculater](https://sidhantabeher.github.io/calculater/)</h3>
-<h3>[Todo-list](react-todo-list1213.netlify.app/)</h3>
+<h3>[Todo-list](https://react-todo-list1213.netlify.app/)</h3>
 
  
 
