@@ -4,6 +4,7 @@
  <h1>Projects</h1>
  <h3> [Weather Application](https://sidhantabeher.github.io/Weather-App/)
 </h3>
+<h3>[Calculater](https://sidhantabeher.github.io/calculater/)</h3>
  
 
 - 📫 How to reach me **bsidhanta999@gmail.com**
