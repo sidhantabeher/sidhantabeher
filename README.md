@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
  <h1>Projects</h1>
- [Weather Application](https://sidhantabeher.github.io/Weather-App/)
+ <h3> [Weather Application](https://sidhantabeher.github.io/Weather-App/)
+</h3>
+ 
 
 - 📫 How to reach me **bsidhanta999@gmail.com**
 
